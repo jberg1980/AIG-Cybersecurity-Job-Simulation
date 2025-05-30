@@ -1,7 +1,7 @@
 ## AIG Shield Up Cybersecurity Program
 
 
-## Zero day Vulnerability Ransomeware Attack
+## Zero day Vulnerability Ransomware Attack
 
 
 ## Overview
