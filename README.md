@@ -47,7 +47,7 @@ In this section, I was exposed to *ransomware attack simulations* and practiced 
 
 ![Python Script](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*twdeGsEHxe1x92y5kh_VoA.png)
 
-This task highlighted the critical role of technical skills in cybersecurity. By writing a Python script to attempt password extraction from an encrypted zip file, I gained practical experience in ethical hacking and data recovery.
+- This task highlighted the critical role of technical skills in cybersecurity. By writing a Python script to attempt password extraction from an encrypted zip file, I gained practical experience in ethical hacking and data recovery.
 ---
 
 ## Tools & Technologies Used:
