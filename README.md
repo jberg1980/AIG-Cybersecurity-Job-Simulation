@@ -29,9 +29,11 @@ In this repository participating in the *AIG Cybersecurity Virtual Internship* w
 I was tasked with addressing a zero-day vulnerability impacting the Product Development Staging Environment’s infrastructure. This involved:
 
 - Staying Informed: I began by reviewing the latest publications from the Cybersecurity & Infrastructure Security Agency (CISA) to grasp the nature and implications of the reported vulnerabilities.
+
 ![Mitigating Log4Shell](https://miro.medium.com/v2/resize:fit:640/format:webp/1*E4jLEvPLtjXRK_EYMcYRyw.png)
 
 - Research and Analysis: I conducted in-depth research on the Apache Log4j vulnerability, known as Log4Shell (CVE-2021–44228), which is a critical remote code execution flaw.
+
 ![Mitigating Log4Shell and Other Log4j-Related Vulnerabilities](https://miro.medium.com/v2/resize:fit:640/format:webp/1*DS5q0MTMkyH8S3uwq4WtdQ.png)
 
 - Communication: I drafted a clear advisory email to inform the relevant teams about the vulnerability and provided guidance on remediation steps.
@@ -42,7 +44,9 @@ This task underscored the importance of prompt and effective communication in cy
 In this section, I was exposed to *ransomware attack simulations* and practiced defense techniques.
 - *Understanding Bruteforcing*: I learned about bruteforcing as a method to recover encrypted data without succumbing to ransom demands.
 - *Python Scripting*: I developed a Python script to bruteforce the decryption key of an encrypted file, simulating a scenario where paying the ransom was not an option.
+
 ![Python Script](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*twdeGsEHxe1x92y5kh_VoA.png)
+
 This task highlighted the critical role of technical skills in cybersecurity. By writing a Python script to attempt password extraction from an encrypted zip file, I gained practical experience in ethical hacking and data recovery.
 ---
 
